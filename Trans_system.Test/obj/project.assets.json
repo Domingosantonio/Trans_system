@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Test\\Trans_system.Test.csproj",
-      "projectName": "Trans_system.Test",
-      "projectPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Test\\Trans_system.Test.csproj",
+      "projectUniqueName": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Test\\Trans_system.Tests.csproj",
+      "projectName": "Trans_system.Tests",
+      "projectPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Test\\Trans_system.Tests.csproj",
       "packagesPath": "C:\\Users\\Domin\\.nuget\\packages\\",
       "outputPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Test\\obj\\",
       "projectStyle": "PackageReference",

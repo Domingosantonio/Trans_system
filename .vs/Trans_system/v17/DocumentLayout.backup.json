@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.application\\features\\trips\\queries\\getalltripquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|solutionrelative:trans_system.application\\features\\trips\\queries\\getalltripquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.application\\features\\trips\\commands\\updatetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|solutionrelative:trans_system.application\\features\\trips\\commands\\updatetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.application\\features\\trips\\commands\\closetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|solutionrelative:trans_system.application\\features\\trips\\commands\\closetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.application\\features\\trips\\commands\\canceltripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|solutionrelative:trans_system.application\\features\\trips\\commands\\canceltripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.application\\features\\trips\\commands\\registertripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2276E8-0B10-42C5-8844-6CC3F5EED0F3}|Trans_system.Application\\Trans_system.Application.csproj|solutionrelative:trans_system.application\\features\\trips\\commands\\registertripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllTripQuery.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Queries\\GetAllTripQuery.cs",
+              "RelativeDocumentMoniker": "Trans_system.Application\\Features\\Trips\\Queries\\GetAllTripQuery.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Queries\\GetAllTripQuery.cs",
+              "RelativeToolTip": "Trans_system.Application\\Features\\Trips\\Queries\\GetAllTripQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:12:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTripCommand.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\UpdateTripCommand.cs",
+              "RelativeDocumentMoniker": "Trans_system.Application\\Features\\Trips\\Commands\\UpdateTripCommand.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\UpdateTripCommand.cs",
+              "RelativeToolTip": "Trans_system.Application\\Features\\Trips\\Commands\\UpdateTripCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:11:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloseTripCommand.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\CloseTripCommand.cs",
+              "RelativeDocumentMoniker": "Trans_system.Application\\Features\\Trips\\Commands\\CloseTripCommand.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\CloseTripCommand.cs",
+              "RelativeToolTip": "Trans_system.Application\\Features\\Trips\\Commands\\CloseTripCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:10:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CancelTripCommand.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\CancelTripCommand.cs",
+              "RelativeDocumentMoniker": "Trans_system.Application\\Features\\Trips\\Commands\\CancelTripCommand.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\CancelTripCommand.cs",
+              "RelativeToolTip": "Trans_system.Application\\Features\\Trips\\Commands\\CancelTripCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:10:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterTripCommand.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\RegisterTripCommand.cs",
+              "RelativeDocumentMoniker": "Trans_system.Application\\Features\\Trips\\Commands\\RegisterTripCommand.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Features\\Trips\\Commands\\RegisterTripCommand.cs",
+              "RelativeToolTip": "Trans_system.Application\\Features\\Trips\\Commands\\RegisterTripCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:10:00.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

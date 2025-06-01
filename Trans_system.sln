@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.API", "Trans_system.API\Trans_system.API.csproj", "{DDAB774F-CBED-448C-B4A5-DB3F8721B06A}"
 EndProject
@@ -10,8 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Domain", "Trans_system.Domain\Trans_system.Domain.csproj", "{1DB33FAB-727B-4F02-9E9D-6590AF074AD1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Infrastructure", "Trans_system.Infrastructure\Trans_system.Infrastructure.csproj", "{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Test", "Trans_system.Test\Trans_system.Test.csproj", "{B196BB3C-04BB-4953-968A-0743A8931F08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B196BB3C-04BB-4953-968A-0743A8931F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B196BB3C-04BB-4953-968A-0743A8931F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B196BB3C-04BB-4953-968A-0743A8931F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B196BB3C-04BB-4953-968A-0743A8931F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
