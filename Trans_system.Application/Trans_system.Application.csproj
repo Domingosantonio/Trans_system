@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Locations\" />
+    <Folder Include="Interfaces\Payments\" />
+    <Folder Include="Interfaces\Users\" />
+    <Folder Include="Interfaces\Reservations\" />
+    <Folder Include="Interfaces\Routes\" />
+    <Folder Include="Interfaces\Vehicles\" />
+    <Folder Include="Interfaces\Trips\" />
+    <Folder Include="Interfaces\Passengers\" />
     <Folder Include="Mappings\" />
   </ItemGroup>
 
