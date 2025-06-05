@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB33FAB-727B-4F02-9E9D-6590AF074AD1}|Trans_system.Domain\\Trans_system.Domain.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB33FAB-727B-4F02-9E9D-6590AF074AD1}|Trans_system.Domain\\Trans_system.Domain.csproj|solutionrelative:trans_system.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:08:42.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
