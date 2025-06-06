@@ -6,5 +6,5 @@ public interface ILocationRepository
     public Location RegisterLocation(Location location);
     public Location UpdateLocation(Location location);
     public List<Location> GetAllLocations();
-    public void DeleteLocation(Location location);
+    public void DeleteLocations(Location location);
 }

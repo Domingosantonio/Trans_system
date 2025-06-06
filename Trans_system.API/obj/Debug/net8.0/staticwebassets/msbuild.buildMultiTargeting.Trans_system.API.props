@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trans_system.API.props" />
+</Project>

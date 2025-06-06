@@ -1,0 +1,12 @@
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\bin\Debug\net8.0\Trans_system.Domain.deps.json
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\bin\Debug\net8.0\Trans_system.Domain.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\bin\Debug\net8.0\Trans_system.Domain.pdb
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.AssemblyInfoInputs.cache
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.AssemblyInfo.cs
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.csproj.CoreCompileInputs.cache
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.sourcelink.json
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\refint\Trans_system.Domain.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\Trans_system.Domain.pdb
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Domain\obj\Debug\net8.0\ref\Trans_system.Domain.dll

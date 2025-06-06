@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "mVSnGkA3F7g=",
+  "dgSpecHash": "mL9NF2jsKng=",
   "success": true,
   "projectFilePath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Application\\Trans_system.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Domin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

@@ -1,0 +1,16 @@
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\bin\Debug\net8.0\Trans_system.Infrastructure.deps.json
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\bin\Debug\net8.0\Trans_system.Infrastructure.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\bin\Debug\net8.0\Trans_system.Infrastructure.pdb
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\bin\Debug\net8.0\Trans_system.Domain.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\bin\Debug\net8.0\Trans_system.Domain.pdb
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.csproj.AssemblyReference.cache
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.AssemblyInfoInputs.cache
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.AssemblyInfo.cs
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.sourcelink.json
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_sy.8B096F2B.Up2Date
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\refint\Trans_system.Infrastructure.dll
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\Trans_system.Infrastructure.pdb
+D:\MEUS ARQUIVOS\Projectos\Trans_system\Trans_system.Infrastructure\obj\Debug\net8.0\ref\Trans_system.Infrastructure.dll

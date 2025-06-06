@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Trans_system.API.Controllers.LocationController",
+    "Method": "Register",
+    "RelativePath": "api/Location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationDTO",
+        "Type": "Trans_system.Application.DTOs.LocationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

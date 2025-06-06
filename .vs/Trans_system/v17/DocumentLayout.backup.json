@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DB33FAB-727B-4F02-9E9D-6590AF074AD1}|Trans_system.Domain\\Trans_system.Domain.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB33FAB-727B-4F02-9E9D-6590AF074AD1}|Trans_system.Domain\\Trans_system.Domain.csproj|solutionrelative:trans_system.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}|Trans_system.Infrastructure\\Trans_system.Infrastructure.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.infrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}|Trans_system.Infrastructure\\Trans_system.Infrastructure.csproj|solutionrelative:trans_system.infrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB774F-CBED-448C-B4A5-DB3F8721B06A}|Trans_system.API\\Trans_system.API.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDAB774F-CBED-448C-B4A5-DB3F8721B06A}|Trans_system.API\\Trans_system.API.csproj|solutionrelative:trans_system.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}|Trans_system.Infrastructure\\Trans_system.Infrastructure.csproj|d:\\meus arquivos\\projectos\\trans_system\\trans_system.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}|Trans_system.Infrastructure\\Trans_system.Infrastructure.csproj|solutionrelative:trans_system.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Trans_system.API\\appsettings.json",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.API\\appsettings.json",
+              "RelativeToolTip": "Trans_system.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T21:41:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IPaymentRepository.cs",
-              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
-              "RelativeDocumentMoniker": "Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
-              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
-              "RelativeToolTip": "Trans_system.Domain\\Interfaces\\IPaymentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Infrastructure\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Trans_system.Infrastructure\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Infrastructure\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "Trans_system.Infrastructure\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T22:08:42.768Z",
+              "WhenOpened": "2025-06-06T21:24:43.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "Trans_system.Infrastructure\\DependencyInjectionExtension.cs",
+              "ToolTip": "D:\\MEUS ARQUIVOS\\Projectos\\Trans_system\\Trans_system.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "Trans_system.Infrastructure\\DependencyInjectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:12:49.784Z",
               "EditorCaption": ""
             }
           ]

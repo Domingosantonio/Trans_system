@@ -5,6 +5,6 @@ public interface IPassengerRepository
 {
     public Passenger RegisterPassenger(Passenger passenger);
     public Passenger UpdatePassenger(Passenger passenger);
-    public List<Passenger> GetAllPasses();
+    public List<Passenger> GetAllPassengers();
     public void DeletePassenger(Passenger passenger);
 }
