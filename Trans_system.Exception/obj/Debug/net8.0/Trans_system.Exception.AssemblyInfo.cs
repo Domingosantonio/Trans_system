@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Trans_system.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Trans_system.Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7146d173837337521c0bca2ba6f4a2523ff69e47")]
-[assembly: System.Reflection.AssemblyProductAttribute("Trans_system.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Trans_system.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("Trans_system.Exception")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Trans_system.Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

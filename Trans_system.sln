@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Domain", "Tran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Infrastructure", "Trans_system.Infrastructure\Trans_system.Infrastructure.csproj", "{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans_system.Exception", "Trans_system.Exception\Trans_system.Exception.csproj", "{FC579AC4-8F7C-4593-B753-7E30BD7463CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE8AFFE-DA1F-48E0-82A0-7EF2D562F614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC579AC4-8F7C-4593-B753-7E30BD7463CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC579AC4-8F7C-4593-B753-7E30BD7463CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC579AC4-8F7C-4593-B753-7E30BD7463CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC579AC4-8F7C-4593-B753-7E30BD7463CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
